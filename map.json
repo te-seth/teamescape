@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":34,
@@ -893,19 +892,6 @@
                          "value":true
                         }]
                 }],
-         "tilewidth":32
-        }, 
-        {
-         "columns":10,
-         "firstgid":321,
-         "image":"..\/..\/TE_Klein_Kacheln.png",
-         "imageheight":207,
-         "imagewidth":320,
-         "margin":0,
-         "name":"TE_Klein_Kacheln",
-         "spacing":0,
-         "tilecount":60,
-         "tileheight":32,
          "tilewidth":32
         }],
  "tilewidth":32,
